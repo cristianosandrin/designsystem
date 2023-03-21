@@ -1,0 +1,6 @@
+{
+  "extends": "@brasilsoluti-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

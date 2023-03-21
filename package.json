@@ -1,0 +1,7 @@
+{
+  "name": "designsystem",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
