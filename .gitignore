@@ -1,15 +1,5 @@
 node_modules/
 packages/docs/node_modules/
-.expo/
+packages/docs/storybook-static/
+.turbo/
 dist/
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
-
-# macOS
-.DS_Store
