@@ -7,7 +7,14 @@ export default {
   args: {
     src: "https://github.com/cristianosandrin.png",
     alt: "Cristiano Sandrin"
-  }
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      }
+    }
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
