@@ -1,0 +1,2 @@
+import{A as t}from"./index.ee1799d5.js";import"./index.cd8ecd1e.js";import"./iframe.3c7d2a1f.js";import"./index.d4b7765b.js";import"./jsx-runtime.56905b39.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/cristianosandrin.png",alt:"Cristiano Sandrin"},argTypes:{src:{control:{type:"text"}}}},c={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,p as WithFallback,m as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.f4532f90.js.map
